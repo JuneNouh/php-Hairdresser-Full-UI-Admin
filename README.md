@@ -213,7 +213,7 @@ php-Hairdresser-Full-UI-Admin/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Junesson/php-Hairdresser-Full-UI-Admin.git
+git clone https://github.com/JuneNouh/php-Hairdresser-Full-UI-Admin.git
 
 # Navigate to project
 cd php-Hairdresser-Full-UI-Admin
